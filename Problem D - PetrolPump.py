@@ -1,7 +1,6 @@
 ''' 
 	Problem D: Petrol Pump
 '''
-
 class Solution(object):
   	
     def __init__(self):
