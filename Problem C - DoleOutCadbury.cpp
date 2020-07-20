@@ -88,3 +88,9 @@ int32_t main() {
     init (Solution, obj);
     d(obj);
 }
+
+/*
+5 7 3 4
+*/
+
+// 16

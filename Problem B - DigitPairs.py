@@ -96,7 +96,6 @@ class Solution(object):
     """
     Function to find the Minimum in the Number
     """
-
     def MinimumInTheArray(self, number):
       
         string_of_number = str(number) ### String of the number
@@ -138,3 +137,10 @@ def main():
     
 if __name__ == "__main__":
     main()
+
+''' 
+8
+234 567 321 345 123 110 767 111
+'''
+
+### 3
